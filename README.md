@@ -10,4 +10,4 @@ Skills
 JavaScript TypeScriptVS CodeHTML5 React NextJs TailwindCSS Bootstrap Material UI Redux NodeJS Express GraphQL MongoDB Amazon Web Services
 
 Socials
-https://www.linkedin.com/in/ernest-thomas-35752623b/   
+https://www.linkedin.com/in/thomas-christopher-ernest-2aa676152/   

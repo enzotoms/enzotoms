@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Thomas C. Ernest, a Fullstack & Mobile Developer with a strong focus on building fast, scalable, and user‑centric applications. I work across the React ecosystem — from **React & React Native** on the frontend to **Node.js, Express, PostgreSQL, and MongoDB** on the backend — crafting seamless experiences powered by clean architecture and efficient APIs.
+I'm Thomas C. Ernest, a full-stack & Mobile Developer with a strong focus on building fast, scalable, and user‑centric applications. I work across the React ecosystem — from **React & React Native** on the frontend to **Node.js, Express, PostgreSQL, and MongoDB** on the backend — crafting seamless experiences powered by clean architecture and efficient APIs.
 
 Over the past few years, I’ve contributed to real‑world products like the **YuMeet Chat App**, **Apartment Booking Platform**, and **E‑Commerce Food Ordering App**, where I’ve implemented real‑time features, optimized performance, and improved database efficiency through indexing and smart query design.
 

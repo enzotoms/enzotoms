@@ -4,7 +4,19 @@
 
 <h3 align="center">Fullstack & Mobile Developer • React | React Native | Node.js | TypeScript</h3>
 
-###
+---
+
+### 👨‍💻 About Me
+
+I'm Thomas C. Ernest, a Fullstack & Mobile Developer with a strong focus on building fast, scalable, and user‑centric applications. I work across the React ecosystem — from **React & React Native** on the frontend to **Node.js, Express, PostgreSQL, and MongoDB** on the backend — crafting seamless experiences powered by clean architecture and efficient APIs.
+
+Over the past few years, I’ve contributed to real‑world products like the **YuMeet Chat App**, **Apartment Booking Platform**, and **E‑Commerce Food Ordering App**, where I’ve implemented real‑time features, optimized performance, and improved database efficiency through indexing and smart query design.
+
+I enjoy solving problems end‑to‑end: designing APIs, improving load times, refining UI interactions, and collaborating in agile teams using GitFlow, CI/CD, and modern development workflows. My goal is simple — build software that feels smooth, performs reliably, and scales with confidence.
+
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
@@ -28,9 +40,9 @@
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
 </div>
 
-###
+---
 
-<h3 align="center">🌍 Connect With Me</h3>
+### 🌍 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thomas-christopher-ernest-2aa676152/">
@@ -44,16 +56,16 @@
   </a>
 </div>
 
-###
+---
 
-<h3 align="center">🔥 My GitHub Stats</h3>
+### 🔥 My GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=enzotoms&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=enzotoms&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -61,4 +73,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
